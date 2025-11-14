@@ -15,3 +15,4 @@ embuild = { version = "0.33", path = ".." }
 anyhow = {version = "1", features = ["backtrace"]}
 log = "0.4"
 env_logger = "0.9"
+which = "4.0"

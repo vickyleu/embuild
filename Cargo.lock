@@ -676,6 +676,7 @@ dependencies = [
  "embuild",
  "env_logger",
  "log",
+ "which",
 ]
 
 [[package]]
